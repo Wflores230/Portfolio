@@ -337,7 +337,7 @@ span {
     
 }
 
-.social-icons i,.social i{
+.social-icons i{
     color:#000000;
 }
 
@@ -347,8 +347,7 @@ span {
     transition:all ease 0.5s;
 }
 
-.social-icons a:hover i,
-.social a:hover i{
+.social-icons a:hover i{
     color:#FFFFFF;
     transition:all ease 0.5s;
 }
