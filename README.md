@@ -13,8 +13,5 @@ The CSS part of this project was actually very difcult for me. I constantly was 
 https://wflores230.github.io/Portfolio/
 
 ## Screenshots
-![Screenshot (69)](https://user-images.githubusercontent.com/76802722/112741840-fa0c4680-8f56-11eb-8be6-755f59a45b20.png)
-
-![Screenshot (64)](https://user-images.githubusercontent.com/76802722/112741844-042e4500-8f57-11eb-98ec-3bff84b19c84.png)
-
-![Screenshot (71)](https://user-images.githubusercontent.com/76802722/112741847-098b8f80-8f57-11eb-94e2-c1408bad9135.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/76802722/119247679-bfd7b380-bb59-11eb-9803-21a357d200d6.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/76802722/119247684-c9611b80-bb59-11eb-925a-4a5014d6feff.png)
